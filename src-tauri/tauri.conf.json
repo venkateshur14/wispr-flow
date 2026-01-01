@@ -1,0 +1,22 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "identifier": "com.wisprflow.app",
+  "productName": "Wispr Flow",
+  "version": "0.1.0",
+  "build": {
+    "devUrl": "http://localhost:1420",
+    "frontendDist": "../dist",
+    "beforeDevCommand": "npm run dev",
+    "beforeBuildCommand": "npm run build"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "Wispr Flow",
+        "width": 900,
+        "height": 720,
+        "resizable": true
+      }
+    ]
+  }
+}
