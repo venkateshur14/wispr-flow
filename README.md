@@ -1,4 +1,4 @@
-# Wispr Flow – Voice-to-Text Desktop App  
+# Wispr Flow clone – Voice-to-Text Desktop App  
 *(Tauri + Deepgram)*
 
 A cross-platform desktop application that provides **real-time voice-to-text transcription** using modern web technologies and AI speech recognition.  
