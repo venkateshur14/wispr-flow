@@ -27,7 +27,7 @@ The goal of this project is to demonstrate:
 - **Desktop Framework:** Tauri (v2)  
 - **Speech-to-Text:** Deepgram Real-Time WebSocket API  
 - **Audio Capture:** Web MediaRecorder API  
-- **Language:** JavaScript (no TypeScript)
+- **Language:** JavaScript 
 
 ---
 
